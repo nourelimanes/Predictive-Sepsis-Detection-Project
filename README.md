@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Predictive Sepsis Detection Project</title>
 </head>
 <body>
     <h1>Predictive Sepsis Detection Project</h1>
